@@ -1,1 +1,3 @@
 # mousewheelEvent
+
+Scroll down with a mouse wheel, the section will change :)
