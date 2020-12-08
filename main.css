@@ -1,0 +1,28 @@
+#window1 {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+#window2 {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+}
+
+#window3 {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+}
+
+#window4 {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
